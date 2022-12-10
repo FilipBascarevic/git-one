@@ -1,1 +1,1 @@
-console.log('feature-b not ready');
+console.log('feature-b ready');
